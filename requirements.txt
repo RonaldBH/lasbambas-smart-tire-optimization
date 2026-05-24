@@ -1,0 +1,48 @@
+# =========================
+# CORE DATA ANALYTICS
+# =========================
+pandas
+numpy
+
+# =========================
+# VISUALIZATION
+# =========================
+matplotlib
+seaborn
+plotly
+
+# =========================
+# MACHINE LEARNING
+# =========================
+scikit-learn
+xgboost
+
+# =========================
+# STATISTICS
+# =========================
+scipy
+statsmodels
+
+# =========================
+# OPTIMIZATION
+# =========================
+pulp
+
+# =========================
+# NOTEBOOKS
+# =========================
+jupyter
+notebook
+ipykernel
+
+# =========================
+# DATA EXPORT / FILES
+# =========================
+openpyxl
+xlsxwriter
+
+# =========================
+# OPTIONAL UTILITIES
+# =========================
+tqdm
+python-dotenv

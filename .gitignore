@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+
+# Entorno virtual
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# Archivos temporales LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Datos pesados
+data/raw/
